@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wamuaxaibe.403.icu/sitemap.xml
